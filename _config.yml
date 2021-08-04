@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Nes Sangsawang"
 title_separator          : "-"
 name                     : &name "Nes Sangsawang"
-description              : &description "Ph.D. Candidate at University of Texas at Austin"
+description              : &description "Ph.D. Candidate at The University of Texas at Austin"
 url                      : https://nesza01.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/nessang" # the subpath of your site, e.g. "/blog"
 repository               : "https://nesza01.github.io/nessang/"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Nes Sangsawang"
   avatar           : "profile.png"
-  bio              : "Ph.D Candidate at University of Texas at Austin"
+  bio              : "Ph.D Candidate at The University of Texas at Austin"
   location         : "Austin, TX"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=cfGHSScAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/nesza01"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-2275-6821"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
