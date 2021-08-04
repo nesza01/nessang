@@ -12,8 +12,8 @@ title_separator          : "-"
 name                     : &name "Nes Sangsawang"
 description              : &description "Ph.D. Candidate at University of Texas at Austin"
 url                      : https://nesza01.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "nesza01/nessang.github.io"
+baseurl                  : "/nessang" # the subpath of your site, e.g. "/blog"
+repository               : "https://nesza01.github.io/nessang/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
